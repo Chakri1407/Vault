@@ -13,7 +13,7 @@ Welcome to the Vault Contract! This smart contract is an ERC4626-compliant vault
 - #### Customizable Hooks: Extendable internal logic with beforeWithdraw and afterDeposit hooks.
 
 ## 📝 Contract Details
-- ### Contract has been Deployed and Verified on polygon amoy testnet.
+- ### Contract has been Deployed and Verified on polygon amoy testnet with Contract Address - [0x7B7299A7626f2533309217e136F01c7Eb1c917A7](https://amoy.polygonscan.com/address/0x7B7299A7626f2533309217e136F01c7Eb1c917A7#code).
 ![1.](https://github.com/Chakri1407/Vault/blob/main/Assets/Verification.png)
 ![2.](https://github.com/Chakri1407/Vault/blob/main/Assets/Txs.png)
 
@@ -144,3 +144,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Make Your Changes: Add your desired features and improvements.
 
 - Submit a Pull Request: Submit a pull request to the main branch for review.
+
+  ## 📜 License
+This project is licensed under the MIT License.
+
+## ✍️ Authors
+
+- [@ChakravarthyN](https://github.com/Chakri1407)
+
+
+## ❓FAQ
+
+#### Question 
+For any questions, please feel free to reach out to me at: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravarthy-naik-9626bb1ba/)
