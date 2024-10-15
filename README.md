@@ -128,7 +128,7 @@ Vault vault = new Vault(0xTokenAddress, 100); // 1% entry fee
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📬 Contact
+### 📬 Contact
 
 - Twitter: https://x.com/Chakru0454
 - GitHub: https://github.com/Chakri1407
