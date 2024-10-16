@@ -99,7 +99,7 @@ Welcome to the Vault Contract! This smart contract is an ERC4626-compliant vault
 
 Clone the Repo:
 
-- git clone https://github.com/your-repo/vault-contract
+- git clone https://github.com/Chakri1407/Vault
 - cd vault-contract
 
 ### Install Dependencies:
@@ -130,8 +130,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### 📬 Contact
 
-- Twitter: https://x.com/Chakru0454
-- GitHub: https://github.com/Chakri1407
+- Twitter: [![Static Badge](https://img.shields.io/badge/X-black)](https://x.com/Chakru0454)
+
+- GitHub: [![Static Badge](https://img.shields.io/badge/github-black)](https://github.com/Chakri1407)
 
 ### 🛠️ Development
 
