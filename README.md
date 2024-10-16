@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Submit a Pull Request: Submit a pull request to the main branch for review.
 
-  ## 📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 ## ✍️ Authors
